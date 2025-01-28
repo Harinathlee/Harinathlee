@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **React JS, Tailwind CSS, Material UI**
 
-- 👨‍💻 All of my projects are available at [https://knowme-lee.netlify.app/](https://knowme-lee.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://knowme-lee.netlify.app/)
 
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **harinathlee2598@outlook.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1qetjpBec61cHcocsgn8iNRRSQgSEfOeH/edit](https://docs.google.com/document/d/1qetjpBec61cHcocsgn8iNRRSQgSEfOeH/edit)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DPvduoTIphqPkFdLfJmQZ1UbF6ii4eCf/view?usp=drive_link)
 
 - ⚡ Fun fact **I am a developer who loves and enjoys coding. Others might think I'm coding, but I'm actually performing music on the piano.😉**
 
